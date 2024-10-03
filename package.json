@@ -1,0 +1,13 @@
+{
+  "name": "lab2-js-frameworks",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module", 
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Manjot Kaur",
+  "license": "ISC",
+  "description": "A simple Node.js project to demonstrate module usage."
+}
